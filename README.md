@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A computer science student from Turkey</h3>
 
-- 🔭 I’m currently working on [feast.](feast.tr)
+- 🔭 I’m currently working on <a href="https://feast.tr" target="_blank" rel="noreferrer">feast</a>
 
 - 🌱 I’m currently learning **AI/ML Concepts**
 
-- 👨‍💻 Take a small journey of me [osmanyahya.online](osmanyahya.online)
+- 👨‍💻 Take a small journey of me <a href="https://osmanyahya.online" target="_blank" rel="noreferrer">Personal Website</a>
 
-- 💬 Ask me about **Django React K8s**
+- 💬 Ask me about **Django, React, K8s**
 
 - ⚡ Fun fact **They said the camel’s neck was crooked, and it said, ‘What part of me isn’t?’**
 
