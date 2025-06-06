@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **They said the camel’s neck was crooked, and it said, ‘What part of me isn’t?’**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
